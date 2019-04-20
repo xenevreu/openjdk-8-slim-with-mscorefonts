@@ -1,2 +1,2 @@
 # openjdk-8-slim-with-mscorefonts
-base
+base image for running Jasper Reports compilation and execution of reports. It contains the necessary files for windows fonts that is missing in the oficial openjdk-8 images.
